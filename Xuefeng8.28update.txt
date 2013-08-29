@@ -1,0 +1,41 @@
+   Berkeley Enterprise System
+
+8/28/2013
+Xuefeng
+
+Done List
+
+#laptop development environment
+set up laptop Eclipse IDE             (ok)
+    ---version Eclipse Java EE IDE for Web Developers.
+    ---version Kepler Release
+    ---http://www.eclipse.org/downloads/
+
+set up jdk 7                           (ok)
+    ---http://www.oracle.com/technetwork/java/javase/downloads/jdk7-downloads-1880260.html
+
+mapped devt server 192.168.2.18        (ok)
+    ---mapped devt server by using Putty on Windows
+
+#development server
+created user account on devt server    (ok)
+created home directory for new account (ok)
+    ---login in as host
+    ---sudo useradd -d /home/xuefeng -m xuefeng
+created password for new account
+    ---sudo passwd xuefeng    
+
+checked java version on server         (ok) 
+    --- java version "1.7.0_25"
+    --- java(TM) SE Runtime Environment(build 1.7.0_25-b15)
+    --- java HotSpot(TM)  64-Bit  Server VM (build 23.25-b01,mixed mode)
+
+#GitHUB
+    ---Created a GitHub account         (ok)
+    ---ensured access to BESystems      (ok)
+    ---joined the BEStstems group
+set up desktop version of GitHUB        (ok)
+    ---version 1.0.54.0
+
+#to be done 
+test access via network
